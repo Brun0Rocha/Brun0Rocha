@@ -70,7 +70,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/brun0rocha/brun0rocha/output/pacman-contribution-graph-dark.svg" alt="Snake animation" />
 
 ###
 
